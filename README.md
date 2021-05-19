@@ -13,4 +13,4 @@ multiclient multi chatroom
   
   Here are screenshot of some results:--
   
-  ![result image ](https://github.com/saurav-bot/chat-room/tree/main/results/result1.jpg)
+  ![result image ](results/result1.jpg)
